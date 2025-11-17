@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+.venv/
+qwerty/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Database files
+*.sqlite3
+chroma_db/
+rag-assistant/chroma_db/
+
+# Test and coverage outputs
+.pytest_cache/
+*.cover
+coverage.*
+.coverage
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables
+.env
+env/
+
+# Log files
+*.log
+
+# Node modules (if any frontend work)
+node_modules/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+var/
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
