@@ -1,0 +1,12 @@
+QUERY:What is the pet policy at TechCorp?
+RESULT:employee-handbook/pet-policy.md
+RESULT:employee-handbook/pet-policy.md
+RESULT:employee-handbook/pet-policy.md
+QUERY:Tell me about CloudSync Pro features
+RESULT:product-specs/cloudsync-pro.md
+RESULT:customer-faqs/general-faqs.md
+RESULT:meeting-notes/product-launch-review.md
+QUERY:How many days of remote work are allowed?
+RESULT:employee-handbook/remote-work-policy.md
+RESULT:employee-handbook/remote-work-policy.md
+RESULT:employee-handbook/remote-work-policy.md
