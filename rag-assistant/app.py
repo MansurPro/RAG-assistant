@@ -12,6 +12,7 @@ import time
 
 # Add core modules to path
 sys.path.append(os.path.join(os.path.dirname(__file__), 'core'))
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 from core.vector_engine import VectorEngine
 from core.chat_engine import ChatEngine
