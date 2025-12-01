@@ -4,6 +4,7 @@ Chat Engine - Handles the RAG pipeline and response generation
 
 import os
 from typing import List, Dict, Any
+from flask.cli import load_dotenv
 from openai import OpenAI
 
 class ChatEngine:
@@ -12,6 +13,8 @@ class ChatEngine:
         
         # Initialize OpenAI client using environment variables directly
         # No .env file needed - uses system environment variables
+        # export vars in .env file
+        load_dotenv()
         api_key = os.environ.get("OPENAI_API_KEY")
         api_base = os.environ.get("OPENAI_API_BASE", "https://api.openai.com/v1")
         
