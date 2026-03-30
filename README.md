@@ -3,7 +3,7 @@
 > **A modular Retrieval-Augmented Generation (RAG) pipeline for document search, chunking, embedding, and conversational AI.**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MansurPro/RAG-assistant/main/assets/custom-commands/rag-visual.png" alt="RAG Assistant Visual" width="600"/>
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/ai-robot-character-standing-at-attention-with-smiling-face-3d-icon-png-download-11431326.png" alt="RAG Assistant Visual" width="600"/>
 </p>
 
 ---
